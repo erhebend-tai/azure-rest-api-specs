@@ -18,7 +18,7 @@ openapi-type: data-plane
 directive:
   - suppress: INVALID_TYPE
     from: assistants_generated.json
-    reason: A bug in oav is preventing a x-nullable attribute on incomplete_details from being honored.
+    reason: A bug in oav is preventing an x-nullable attribute on incomplete_details from being honored.
 ```
 
 # Releases
